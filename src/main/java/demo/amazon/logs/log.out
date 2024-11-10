@@ -1,0 +1,152 @@
+2023-04-10 12:04:136 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 12:04:872 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 12:04:906 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:825 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:717 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:272 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:700 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:697 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:587 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:697 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:926 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:948 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:589 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:362 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:550 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:445 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:702 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:156 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:477 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:28 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 13:04:299 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:659 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:80 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:349 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:633 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:653 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:98 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:561 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:773 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:177 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:667 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:218 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:597 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 14:04:459 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-10 15:04:967 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-12 12:04:725 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-12 13:04:467 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-12 13:04:237 INFO  ManageDriver :41 - Launching Chrome Browser
+2023-04-12 21:04:455 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:466 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:569 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:950 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:641 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (92a6dff8efa1e83d384fa418afaaf157)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:885 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (92a6dff8efa1e83d384fa418afaaf157)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 21:04:920 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (92a6dff8efa1e83d384fa418afaaf157)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 21:04:214 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:187 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (c8dd612f48e633de9f552ab4303621f5)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:936 INFO  HomePage :56 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (c8dd612f48e633de9f552ab4303621f5)] -> xpath: //span[@id='nav-link-accountList-nav-line-1']]
+2023-04-12 21:04:16 INFO  SignPage :23 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Sign In')]'
+2023-04-12 21:04:401 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:764 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (bfe54f1c2e4ff28ed13b1d2f5caafef2)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:903 INFO  HomePage :76 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (bfe54f1c2e4ff28ed13b1d2f5caafef2)] -> xpath: //select[@id='searchDropdownBox']]
+2023-04-12 21:04:199 INFO  HomePage :83 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (bfe54f1c2e4ff28ed13b1d2f5caafef2)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2023-04-12 21:04:395 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:314 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:156 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (19422e2527f003408736f78031491300)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:554 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (19422e2527f003408736f78031491300)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 21:04:587 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (19422e2527f003408736f78031491300)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 21:04:167 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:810 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (f373b207768e8d7329e45a68d7572b85)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:83 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (f373b207768e8d7329e45a68d7572b85)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 21:04:114 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f373b207768e8d7329e45a68d7572b85)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 21:04:321 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:705 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (8732506d646a1bc43d7ce7e54f4e4d0f)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:504 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (8732506d646a1bc43d7ce7e54f4e4d0f)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 21:04:537 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8732506d646a1bc43d7ce7e54f4e4d0f)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 21:04:379 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:980 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (31413437c767e1e8a9455c4061278fd0)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:853 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (31413437c767e1e8a9455c4061278fd0)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 21:04:872 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (31413437c767e1e8a9455c4061278fd0)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 21:04:757 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:739 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (35c753db0295e1b7ddb27dd288f31814)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:52 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (35c753db0295e1b7ddb27dd288f31814)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 21:04:85 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (35c753db0295e1b7ddb27dd288f31814)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 21:04:58 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 21:04:634 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (ce085b50399448ba53656741c39e261a)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 21:04:709 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (ce085b50399448ba53656741c39e261a)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 21:04:738 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ce085b50399448ba53656741c39e261a)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 23:04:409 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:828 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:259 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (3f45b76e21338d4658d7f06a1148a7a9)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:398 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (3f45b76e21338d4658d7f06a1148a7a9)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:431 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3f45b76e21338d4658d7f06a1148a7a9)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 23:04:364 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:636 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (cff84ca2d33ebf75e9b75de53cd0f593)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:236 INFO  HomePage :56 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (cff84ca2d33ebf75e9b75de53cd0f593)] -> xpath: //span[@id='nav-link-accountList-nav-line-1']]
+2023-04-12 23:04:335 INFO  SignPage :23 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Sign In')]'
+2023-04-12 23:04:540 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:411 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (4f51e7efc931f3b360adc780d0029005)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:174 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (4f51e7efc931f3b360adc780d0029005)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:203 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (4f51e7efc931f3b360adc780d0029005)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 23:04:244 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:672 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (9ca1609926d00969731e245d056b8c62)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:614 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (9ca1609926d00969731e245d056b8c62)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:636 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9ca1609926d00969731e245d056b8c62)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 23:04:774 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:68 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (40510534a63b0b0dca4eac1cc5aa8ff7)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:657 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (40510534a63b0b0dca4eac1cc5aa8ff7)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:697 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (40510534a63b0b0dca4eac1cc5aa8ff7)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 23:04:222 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:928 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (f10f810ec4140c51a52cd331e2d155d3)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:52 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (f10f810ec4140c51a52cd331e2d155d3)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:79 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f10f810ec4140c51a52cd331e2d155d3)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 23:04:329 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:534 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (1412ecf6102c9334473e73ada7d21ab7)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:186 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (1412ecf6102c9334473e73ada7d21ab7)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:216 INFO  HomePage :67 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1412ecf6102c9334473e73ada7d21ab7)] -> xpath: //h2[contains(text(),'Your Amazon Cart is empty')]]
+2023-04-12 23:04:217 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:210 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (46a31d928524649b81ac480c6c293d6f)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:96 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (46a31d928524649b81ac480c6c293d6f)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:972 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:365 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (97cb4a5ad9daa04d38ea9018ecf32b95)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:823 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (97cb4a5ad9daa04d38ea9018ecf32b95)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:417 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:84 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:963 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (c639f14b61a890399da88dac8c4f6f83)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:75 INFO  HomePage :77 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (c639f14b61a890399da88dac8c4f6f83)] -> xpath: //select[@id='searchDropdownBox']]
+2023-04-12 23:04:259 INFO  HomePage :84 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (c639f14b61a890399da88dac8c4f6f83)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2023-04-12 23:04:566 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:340 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (541d35911fd21fc2fb0dbfbb00b50c43)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:443 INFO  HomePage :77 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (541d35911fd21fc2fb0dbfbb00b50c43)] -> xpath: //select[@id='searchDropdownBox']]
+2023-04-12 23:04:675 INFO  HomePage :84 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (541d35911fd21fc2fb0dbfbb00b50c43)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2023-04-12 23:04:557 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:230 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (13553425d7971f56b218cb872c62f850)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:342 INFO  HomePage :77 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (13553425d7971f56b218cb872c62f850)] -> xpath: //select[@id='searchDropdownBox']]
+2023-04-12 23:04:528 INFO  HomePage :84 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (13553425d7971f56b218cb872c62f850)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2023-04-12 23:04:692 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:462 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (d061e382a94084d674bd0a8cddf3cee8)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:473 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:112 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (82fef54831c85c981bec212a64ccc7d9)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:363 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (82fef54831c85c981bec212a64ccc7d9)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:976 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:829 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (af9b7e079ce3fd8fc1b8bc5650f8ae35)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:196 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (af9b7e079ce3fd8fc1b8bc5650f8ae35)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:289 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:611 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (1d434c42354d9f74d0db716fc7cc3251)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:342 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (1d434c42354d9f74d0db716fc7cc3251)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:194 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:615 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (d6f5d980af24264806d49034d020c841)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:278 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (d6f5d980af24264806d49034d020c841)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:639 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:981 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (fd2a0d7d60b687bbdf8b3bb682500f38)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:88 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (fd2a0d7d60b687bbdf8b3bb682500f38)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:311 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:519 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (81be837e1d12c0a084ac121f5fa7be33)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:112 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (81be837e1d12c0a084ac121f5fa7be33)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-12 23:04:680 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-12 23:04:927 INFO  HomePage :51 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (9e6333daf83a7cfecdbb3d0183e4b67e)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-12 23:04:635 INFO  HomePage :62 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (9e6333daf83a7cfecdbb3d0183e4b67e)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
+2023-04-13 00:04:927 INFO  ManageDriver :42 - Launching Chrome Browser
+2023-04-13 00:04:613 INFO  HomePage :51 - Accepting cookies : [[ChromeDriver: chrome on WINDOWS (c70f8e25df1e381d7aa2cf8c78acc79c)] -> xpath: //input[@id='sp-cc-accept']]
+2023-04-13 00:04:461 INFO  HomePage :62 - Clicking on basket button : [[ChromeDriver: chrome on WINDOWS (c70f8e25df1e381d7aa2cf8c78acc79c)] -> xpath: //header/div[@id='navbar']/div[@id='nav-belt']/div[3]/div[1]/a[4]/div[1]/span[2]]
